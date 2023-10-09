@@ -3,7 +3,7 @@
 The sequence of code when analyze two-photon imaging data :
 
 1. function 'premoviepress' 
-2. input data into suite2p
+2. input data into suite2p and run the program
 3. function 'calFfromROI'
 4. function 'automatic_data_analysis2P'
 5. function 'rmout'
